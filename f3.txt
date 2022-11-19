@@ -4,8 +4,8 @@ funcao bué grande (int teste){
 
     cenas
 
-    for(int i = 0; i < teste; i++){
-        aaaaa
+    for(int i = 0; i <= teste; i++){
+      System.out.print("Hello world");
     }
 
     return teste;
