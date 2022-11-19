@@ -1,2 +1,12 @@
 www
 ab
+funcao bué grande (int teste){
+
+    cenas
+
+    for(int i = 0; i < teste; i++){
+        aaaaa
+    }
+
+    return teste;
+}
